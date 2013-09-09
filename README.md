@@ -3,6 +3,18 @@ sublime-github-issues
 
 Sublime Text Plugin to handle github issues.  
 
+### Roadmap
+
+  1. <del>Create repo and PoC version</del> <i>2013.09.08</i>
+  2. <del>Use local git repository instead of settings file</del> <i>2013.09.09</i>
+  3. Implement Create Ticket command
+  4. Implement Close Ticket command
+  5. Cleanup codes and stuff like that
+  6. Add to package control
+  7. Implement Comment on Ticket command
+  8. Implement View Ticket Details command
+  9. Implement Edit Ticket command
+  
 ### Usage
 
 Copy the *.py files to `Packages/User` directory in your Sublime text settings folder. (`~/Library/Application Support/Sublime Text 3` on OS X).   
